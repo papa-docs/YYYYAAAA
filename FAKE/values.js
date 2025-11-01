@@ -1,7 +1,7 @@
 // values.js
 
 // Основные данные 
-var fio               = "Кравчук Назар Ілліч";
+var fio               = "Понамарев Денис Ілліч";
 var fio_en            = "Bakumets Volodymyr";
 var birth             = "19.09.2006"; //дата рождения
 var date_give         = "18.11.2019"; //Дата видачи
@@ -67,6 +67,7 @@ var photo_zagran   = "photo_2025-10-22_13-45-02.jpg"; //загран
 
 var signPng           = "sign.png"; //подпись
 // Можно добавить еще, если надо
+
 
 
 
